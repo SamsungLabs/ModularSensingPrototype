@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=frame_right_main_connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=frame_right_main_connectors.SchDoc|FileName=microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=frame_right_main_connectors.SchDoc|FileName=peripherals.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=frame_right_main_connectors.SchDoc|FileName=power.SchDoc|SheetNumber=3

@@ -1,0 +1,15 @@
+# Hardware Folder
+
+Hardware design assets are split into:
+
+- `electrical/` - Altium project files (`.PrjPcb`, `.SchDoc`, `.PcbDoc`, output jobs)
+- `mechanical/` - CAD/mesh files (`.SLDASM`, `.SLDPRT`, `.step`, `.STL`, `.DXF`, `.3MF`)
+
+## Open-source cleanup notes
+
+- Historical subfolder nesting (`v1`, `v1_early_prototype`) was flattened to simplify navigation.
+- File names were normalized where needed for clearer meaning.
+
+## Citation
+
+If you use or adapt these hardware files, please cite our IEEE Access paper.
