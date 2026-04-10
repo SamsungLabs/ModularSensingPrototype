@@ -1,14 +1,5 @@
-# Hardware Folder
+# Modular Sensing Prototype
 
-Hardware design assets are split into:
-
-- `electrical/` - Altium project files (`.PrjPcb`, `.SchDoc`, `.PcbDoc`, output jobs)
-- `mechanical/` - CAD/mesh files (`.SLDASM`, `.SLDPRT`, `.step`, `.STL`, `.DXF`, `.3MF`)
-
-## Open-source cleanup notes
-
-- Historical subfolder nesting (`v1`, `v1_early_prototype`) was flattened to simplify navigation.
-- File names were normalized where needed for clearer meaning.
 
 ## Citation
 
