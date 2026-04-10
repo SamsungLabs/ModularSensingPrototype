@@ -3,4 +3,4 @@
 
 ## Citation
 
-If you use or adapt these hardware files, please cite our IEEE Access paper.
+If you use or adapt any hardware, data, or code, please cite our paper.
